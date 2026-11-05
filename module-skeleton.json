@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-sync-offline-dart-mobile",
+  "capabilityKey": "liberusoftware/music-sync-offline",
+  "presentation": "dart-mobile",
+  "package": "module_music_sync_offline_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/music/nextjs/sync-offline.md",
+  "presentationPlan": "projects/music/features/sync-offline.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
